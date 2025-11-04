@@ -1,4 +1,4 @@
-# LLM-Based Agentic Architectural Framework Prompts
+# Prompts used in the porposed LLM-Based Agentic Architectural Framework 
 
 This repository contains the prompt definitions used for the three LLM-based agents within the proposed agentic architectural framework guided by Knowledge Components (KCs) and the SOLO taxonomy.
 
