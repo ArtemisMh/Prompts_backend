@@ -8,14 +8,14 @@ The framework introduces an agentic architecture composed of three specialized L
 
 
 📁 **Repository Structure**
-- Prompts/
+- `Prompts/`
 
-- Learning_Design_Agent.md
+- `Learning_Design_Agent.md`
   - → Contains prompt templates for generating Knowledge Components (KCs) and SOLO-aligned mastery examples from course materials.
 
-- Analyze_Layer_Agent.md
+- `Analyze_Layer_Agent.md`
   - → Contains prompts used to evaluate student responses against SOLO taxonomy levels, provide justification, and detect misconceptions.
 
-- React_Layer_Agent.md
+- `React_Layer_Agent.md`
   - → Includes prompts for generating personalized, context-aware instructional feedback, reflective prompts, educator summary, or new tasks based on learner progress and environment.
 
